@@ -17,3 +17,4 @@ bill_per_person = total_bill / ppl
 
 print(f" bill_per_person :{bill_per_person:.2f}" )
 
+
