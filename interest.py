@@ -16,10 +16,10 @@ print (f"annual interest:{annual_interest:.2f}")
 print (f"balance 5 years:{cmp_int_5:.2f}")
 print (f"balance 10 years:{cmp_int_10:.2f}")
 print (f"balance 15 years:{cmp_int_15:.2f}")
-print (f"doubling years: {doubling_years:.2f}")
+print (f"estimated doubling years: {doubling_years:.2f}")
 
 if (doubling_years % 2==0) :
-    print("doubling years are even ")
+    print("e_doubling years are even ")
 else:
-    print(" doubling years are odd")
+    print("e_doubling years are odd")
 
