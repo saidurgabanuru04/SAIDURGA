@@ -1,5 +1,5 @@
 U_name = (str(input("Enter the User name with a space between first name and last name only, use single space:")))
-S_Id = (str(input("Enter the Student ID along with birth year with a space(eg: 3816 2005) :")))
+S_Id = (str(input("Enter the Student ID along with birth year with a space(ex: 3816 2005) :")))
 
 
 U_name = U_name.strip().lower().split()
