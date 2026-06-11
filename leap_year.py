@@ -8,5 +8,5 @@ def is_leap(year):
             return leap
     else:
         return not_leap
-year = int(input("enter the year:"))
+year = int(input("enter a year:"))
 print(is_leap(year))
